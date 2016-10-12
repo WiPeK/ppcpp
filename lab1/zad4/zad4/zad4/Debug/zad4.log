@@ -1,0 +1,3 @@
+﻿  zad4.cpp
+e:\polibuda\ppc2\lab1\zad4\zad4\zad4\zad4.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  zad4.vcxproj -> E:\polibuda\ppc2\lab1\zad4\zad4\Debug\zad4.exe

@@ -1,0 +1,3 @@
+﻿  zad1.cpp
+e:\polibuda\ppc2\lab1\zad1\zad1\zad1\zad1.cpp(18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  zad1.vcxproj -> E:\polibuda\ppc2\lab1\zad1\zad1\Debug\zad1.exe
