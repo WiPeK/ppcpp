@@ -1,0 +1,2 @@
+﻿  zad2.cpp
+e:\polibuda\ppc2\lab2\zad2\zad2\zad2\zad2.cpp(47): error C2677: binary '*': no global operator found which takes type 'std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>' (or there is no acceptable conversion)
