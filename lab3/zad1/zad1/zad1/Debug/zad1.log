@@ -1,0 +1,15 @@
+﻿  zad1.cpp
+e:\polibuda\ppc2\lab3\zad1\zad1\zad1\zad1.cpp(84): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\polibuda\ppc2\lab3\zad1\zad1\zad1\zad1.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  e:\polibuda\ppc2\lab3\zad1\zad1\zad1\zad1.cpp(90): note: see reference to function template instantiation 'void fillRandomArray<int>(T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+e:\polibuda\ppc2\lab3\zad1\zad1\zad1\zad1.cpp(12): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  e:\polibuda\ppc2\lab3\zad1\zad1\zad1\zad1.cpp(92): note: see reference to function template instantiation 'void fillRandomArray<char>(T *,int)' being compiled
+          with
+          [
+              T=char
+          ]
+  zad1.vcxproj -> E:\polibuda\ppc2\lab3\zad1\zad1\Debug\zad1.exe

@@ -1,0 +1,8 @@
+﻿  zad2c.cpp
+e:\polibuda\ppc2\lab3\zad2c\zad2c\zad2c\zad2c.cpp(87): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab3\zad2c\zad2c\zad2c\zad2c.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab3\zad2c\zad2c\zad2c\zad2c.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab3\zad2c\zad2c\zad2c\zad2c.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab3\zad2c\zad2c\zad2c\zad2c.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab3\zad2c\zad2c\zad2c\zad2c.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+  zad2c.vcxproj -> E:\polibuda\ppc2\lab3\zad2c\zad2c\Debug\zad2c.exe
