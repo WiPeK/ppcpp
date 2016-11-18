@@ -1,0 +1,4 @@
+﻿  lab4zad1.cpp
+e:\polibuda\ppc2\lab5\zad1\lab4zad1\lab4zad1\lab4zad1.cpp(63): warning C4101: 'secondVectorXY': unreferenced local variable
+e:\polibuda\ppc2\lab5\zad1\lab4zad1\lab4zad1\lab4zad1.cpp(62): warning C4101: 'firstVectorXY': unreferenced local variable
+  lab4zad1.vcxproj -> E:\polibuda\ppc2\lab5\zad1\lab4zad1\Debug\lab4zad1.exe
