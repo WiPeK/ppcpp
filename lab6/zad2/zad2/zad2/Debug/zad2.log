@@ -1,0 +1,9 @@
+﻿  zad2.cpp
+e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(75): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(28): note: while compiling class template member function 'void formula<int>::count(void)'
+  e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(40): note: see reference to function template instantiation 'void formula<int>::count(void)' being compiled
+  e:\polibuda\ppc2\lab6\zad2\zad2\zad2\zad2.cpp(59): note: see reference to class template instantiation 'formula<int>' being compiled
+  zad2.vcxproj -> E:\polibuda\ppc2\lab6\zad2\zad2\Debug\zad2.exe
